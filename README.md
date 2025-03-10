@@ -1,4 +1,4 @@
-This is a **simple yet fully functional web-based calculator** designed with **HTML, CSS, and JavaScript**. It features a clean and modern design with a **responsive layout**, ensuring usability across different devices, including desktops, tablets, and smartphones.
+This is a **simple yet fully functional web-based calculator** designed with **HTML, CSS, and JavaScript**. It features a clean and modern design.
 
 ---
 
